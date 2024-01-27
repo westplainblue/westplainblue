@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/westplainblue/westplainblue/output/github-contribution-grid-snake.svg)
 
 
-### Stats
+## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=westplainblue&theme=gruvbox)
