@@ -1,7 +1,7 @@
-## westplainblue
+# westplainblue
 
 
-## Contributions
+### Contributions
 
 <!--
 **westplainblue/westplainblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/westplainblue/westplainblue/output/github-contribution-grid-snake.svg)
 
 
-## Stats
+### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=westplainblue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=westplainblue&theme=gruvbox&utcOffset=9)
 
-## Trophy
+### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=westplainblue&theme=gruvbox)
